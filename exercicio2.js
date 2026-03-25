@@ -19,3 +19,4 @@ if (idade <= 12) {
 } else {
     console.log('Você é um idoso!');
 }
+
