@@ -1,6 +1,6 @@
 # 📘 Exercícios de Lógica com JavaScript (Node.js)
 
-Este repositório contém exercícios básicos de lógica de programação utilizando **JavaScript** com **Node.js**, focando no uso de estruturas condicionais (`if`, `else if`, `else`).
+Este repositório contém exercícios de lógica de programação utilizando **JavaScript** com **Node.js**, focando no uso de estruturas condicionais e loops.
 
 ---
 
@@ -13,6 +13,8 @@ Este repositório contém exercícios básicos de lógica de programação utili
 ---
 
 ## 📚 Exercícios
+
+### 🔹 Estruturas condicionais
 
 ### 1️⃣ Par ou Ímpar
 Programa que recebe um número inteiro e verifica se ele é **par** ou **ímpar** utilizando `if`.
@@ -54,6 +56,48 @@ Utilizando `if-else`.
 
 ---
 
+### 5️⃣ Cálculo de Compra de Maçãs
+As maçãs custam:
+
+- 🍎 R$ 0,30 (menos de 12 unidades)  
+- 🍎 R$ 0,25 (12 ou mais unidades)  
+
+O programa calcula o valor total da compra com base na quantidade.
+
+---
+
+### 6️⃣ Ordem Crescente
+Programa que lê dois valores (diferentes) e os exibe em ordem crescente.
+
+---
+
+## 🔹 Estruturas de repetição (loops)
+
+### 7️⃣ Contagem Regressiva
+Exibe uma contagem de **10 até 1** utilizando `for`.
+
+---
+
+### 8️⃣ Repetição de Número
+Lê um número inteiro e o exibe **10 vezes**.
+
+---
+
+### 9️⃣ Soma de Números
+Solicita 5 números ao usuário e calcula a soma total utilizando `for`.
+
+---
+
+### 🔟 Tabuada
+Exibe a tabuada (de 1 a 10) de um número fornecido pelo usuário.
+
+---
+
+### 1️⃣1️⃣ Média de Números
+Recebe números decimais até que o usuário digite **0** e calcula a média aritmética.
+
+---
+
 ## 💻 Como executar os projetos
 
 1. Instale o Node.js na sua máquina  
@@ -61,4 +105,3 @@ Utilizando `if-else`.
 
 ```bash
 npm install readline-sync
-
